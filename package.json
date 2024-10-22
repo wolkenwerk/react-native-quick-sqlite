@@ -1,7 +1,6 @@
 {
   "name": "react-native-quick-sqlite-workspace",
   "version": "8.2.1",
-  "packageManager": "bun@1.1.21",
   "private": "true",
   "workspaces": [
     "package",
